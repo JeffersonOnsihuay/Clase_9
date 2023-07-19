@@ -1,0 +1,4 @@
+@server = https://jeffersononsihuay-ideal-fortnight-wwvjqwgxqq62gq6p-8080.preview.app.github.dev
+@emp = {{server}}/api/employees
+###
+GET {{@emp}}
